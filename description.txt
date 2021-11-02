@@ -1,0 +1,6 @@
+by: buddy (28116)
+
+copys link to clipboard
+
+(defaults to 1 (ON))
+$pref::copyLinks = 1;
